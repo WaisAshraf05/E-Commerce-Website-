@@ -65,8 +65,8 @@ header nav a {
 }
 
 .slide img {
-  width: 100%;
-  height: 300px; /* Adjusted height for mobile-friendly appearance */
+  width: 410px ;
+  height: auto ; /* Adjusted height for mobile-friendly appearance */
   object-fit: cover; /* Ensures the images are scaled properly without stretching */
 }
 
